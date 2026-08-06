@@ -10,11 +10,11 @@
 
 ## How to use this template (read once, then delete this block)
 
-0. **Check the setup** (repo captain): this repo was created with **Use this
-   template** from the course template, is set to **Private**, is named
-   `finc3014-group-NN`, and **Settings → Collaborators** lists every member
-   _and_ the unit's marking account (posted on Canvas). Submit the repo URL
-   via the Canvas form.
+0. **Check the setup**: this repo was stamped from the course template by
+   the teaching team — **Private**, in the unit's GitHub organisation
+   (`finc3014-s2-2026/group-NN`). Confirm **Settings → Collaborators** lists
+   every member; if a teammate is missing (usually a mistyped username on
+   the Canvas survey), tell your tutor and we re-send the invitation.
 1. **Fill in the group table** below, then **every member commits their own
    row of [`CONTRIBUTIONS.md`](CONTRIBUTIONS.md)** — from their own account.
    That is your minimum footprint (brief, Section 5): sign it by mid-window

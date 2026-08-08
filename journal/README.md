@@ -11,6 +11,11 @@ did and *why*.
 - Different members should commit different entries over the window (A3).
 - Each entry must record at least one **specific decision** (a trade, a hold,
   or a deliberate no-trade) and a **one-line rationale** (A2).
+- Every fill also gets a row in the **trades-and-costs table**: bid/ask from the
+  order ticket at the moment you submit (screenshot it — that quote is
+  unrecoverable later), mid, fill price, commission. These rows are the raw
+  inputs for your execution-cost analysis (report §5.3, criterion C9) — collect
+  them live, not in Week 11.
 
 Use the structure already in each `weekN.md` file. Keep it short — half a page
 is plenty. Honesty beats polish: "we panicked and closed early, which was a

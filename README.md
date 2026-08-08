@@ -20,8 +20,10 @@
    That is your minimum footprint (brief, Section 5): sign it by mid-window
    (Sun 27 Sep) and again before the freeze.
 2. **Write your Client Mandate** (Section 1 below) before the window opens.
-3. Each trading week, add a journal entry in [`journal/`](journal/) — copy the
-   week template and write what you did and *why*.
+3. Each trading week, open that week's file in [`journal/`](journal/)
+   (`week6.md` … `week10.md`, plus `break.md`) and fill it in — decisions with
+   rationale, every fill's quotes and costs, end-of-week positions. Commit it
+   during the week it describes.
 4. Do your analysis in [`analysis/analysis.ipynb`](analysis/analysis.ipynb).
    Replace `analysis/trades.csv` with your real IBKR trade-log export.
 5. Write the report **in this README**, in the sections below (delete the

@@ -21,9 +21,11 @@
    (Sun 27 Sep) and again before the freeze.
 2. **Write your Client Mandate** (Section 1 below) before the window opens.
 3. Each trading week, open that week's file in [`journal/`](journal/)
-   (`week6.md` … `week10.md`, plus `break.md`) and fill it in — decisions with
-   rationale, every fill's quotes and costs, end-of-week positions. Commit it
-   during the week it describes.
+   (`week6.md` … `week10.md`, plus `break.md`) and fill its numbered sections
+   from the week's **two IBKR reports** — the custom performance report and
+   the Trade Confirmation report (click-by-click download guide on Canvas:
+   `ibkr-reports-guide.pdf`). Commit entry, report PDFs, and chart snip
+   during the week it describes — each on-time week earns a mark (A1).
 4. Do your analysis in [`analysis/analysis.ipynb`](analysis/analysis.ipynb).
    Replace `analysis/trades.csv` with your real IBKR trade-log export. During
    the trading window, run `analysis/save_quotes.py` once a week — it caches

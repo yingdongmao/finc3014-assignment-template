@@ -15,7 +15,7 @@ GitHub account works and your contribution is on the record.
    (mid-window) and once in the final week before the freeze.
 4. Be honest and specific — "built the drawdown chart in `analysis.ipynb`"
    beats "helped with analysis". The teaching team cross-checks this table
-   against the commit history and the Buddycheck peer evaluation.
+   against the commit history and the peer evaluation survey.
 
 | Member | GitHub handle | What I did (keep this updated) | Mid-window signature (date) | Final signature (date) |
 |---|---|---|---|---|

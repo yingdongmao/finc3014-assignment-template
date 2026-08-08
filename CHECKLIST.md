@@ -22,7 +22,7 @@ Leave the **Marker** column blank.
 
 | # | Criterion | Pts | Where in our repo | Self | Marker |
 |---|---|---|---|---|---|
-| A1 | A dated entry committed *during* each trading week (1 per on-time week, up to 6) | 6 |  |  |  |
+| A1 | A dated entry following the week template's sections, committed *during* each trading week (1 per on-time week, up to 6) | 6 |  |  |  |
 | A2 | Every entry records ≥1 specific decision + a one-line rationale | 2 |  |  |  |
 | A3 | Journal commits from ≥3 different members' Git identities | 2 |  |  |  |
 
@@ -45,7 +45,7 @@ Leave the **Marker** column blank.
 | C2 | Specific market(s)/instruments, reconcilable with trade log | 1 |  |  |  |
 | C3 | Client Mandate: persona, risk-aversion A, measurable objective, ≥1 hard constraint | 1 |  |  |  |
 | C4 | Capital + position-sizing rule | 1 |  |  |  |
-| C5 | Named benchmark consistent with the mandate + 1-line rationale | 1 |  |  |  |
+| C5 | Named benchmark consistent with the mandate's asset class *and* the client's risk preference (A), with the rationale linking the two | 1 |  |  |  |
 | C6 | ≥2 distinct risks, each with channel to P&L + citation — *anchor: risks are sized (magnitude or probability)* | 1+1 |  |  |  |
 | C7 | Return decomposed into ≥2 buckets, quantified, reconciling to total — *anchor: buckets test the hypothesis* | 1+1 |  |  |  |
 | C8 | Largest contributor + detractor identified, each linked to a decision — *anchor: separates design from luck* | 1+1 |  |  |  |

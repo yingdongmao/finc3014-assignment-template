@@ -18,12 +18,15 @@ other (criterion A1)._
 |  |  |  |
 
 ## Trades and costs this week — one row per fill
-> **Bid / Ask at order** = what the order ticket shows at the moment you submit —
-> screenshot it and link the image here (the quote cannot be recovered later:
-> IBKR statements keep only fills and commissions; a "Delayed" quote still counts
-> as your decision-time reference). Mid = (Bid + Ask) / 2. Fill price and
-> commission: Client Portal → **Orders & Trades**, after the fill. No fills this
-> week? Write "no fills" and keep the section.
+> **The ten-second rule: type Bid / Ask into this row _before_ you click
+> Submit** (read them off the order ticket; a "Delayed" quote still counts as
+> your decision-time reference). Typing the two numbers _is_ the record — a
+> screenshot is optional extra evidence, not a requirement. Mid = (Bid + Ask) / 2.
+> Fill price and commission: Client Portal → **Orders & Trades**, after the fill.
+> Forgot the quote? Don't invent it: put "~" in the Bid / Ask cell and
+> reconstruct an approximate Mid from the cached 1-minute bars
+> (`analysis/save_quotes.py` — run it within 7 days of the trade). No fills
+> this week? Write "no fills" and keep the section.
 
 | Date & time | Instrument | Buy/Sell, qty | Order type | Bid / Ask at order | Mid | Fill price | Commission | Cost vs mid (bp) |
 |---|---|---|---|---|---|---|---|---|

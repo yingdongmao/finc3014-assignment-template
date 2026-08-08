@@ -25,7 +25,10 @@
    rationale, every fill's quotes and costs, end-of-week positions. Commit it
    during the week it describes.
 4. Do your analysis in [`analysis/analysis.ipynb`](analysis/analysis.ipynb).
-   Replace `analysis/trades.csv` with your real IBKR trade-log export.
+   Replace `analysis/trades.csv` with your real IBKR trade-log export. During
+   the trading window, run `analysis/save_quotes.py` once a week — it caches
+   the 1-minute bars that back-fill any journal quote you missed (see
+   [`journal/`](journal/)).
 5. Write the report **in this README**, in the sections below (delete the
    prompts as you go).
 6. Document your AI use in [`ai-log/ai-log.md`](ai-log/ai-log.md).

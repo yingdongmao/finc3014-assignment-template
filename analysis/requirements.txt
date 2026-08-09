@@ -1,9 +1,3 @@
-# Core Track dependencies (criterion B2).
-# Install with:  pip install -r requirements.txt
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-jupyter>=1.0
-
-# Optional, if you pull benchmark/price data from the web instead of prices.csv:
-# yfinance>=0.2
+# Reference only - Google Colab has these preinstalled.
+pandas
+matplotlib

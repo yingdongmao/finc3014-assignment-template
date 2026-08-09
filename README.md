@@ -26,10 +26,14 @@
    the Trade Confirmation report (click-by-click download guide on Canvas:
    `ibkr-reports-guide.pdf`). Commit entry, report PDFs, and chart snip
    during the week it describes — each on-time week earns a mark (A1).
-4. Do your analysis in [`analysis/analysis.ipynb`](analysis/analysis.ipynb).
-   Replace `analysis/trades.csv` with your real IBKR trade-log export. During
-   the trading window, run `analysis/save_quotes.py` once a week — it caches
-   the 1-minute bars that back-fill any journal quote you missed (see
+4. Run the provided notebook
+   [`analysis/analysis.ipynb`](analysis/analysis.ipynb) — **no code to
+   write**: replace `analysis/returns.csv` with your window's daily-returns
+   export (reports guide, Section 5), open the notebook in Google Colab,
+   **Run all**, and reconcile its numbers against the IBKR report (rubric
+   B). Keep `trades.csv` as your trade-log evidence. During the trading
+   window, run `analysis/save_quotes.py` once a week — it caches the
+   1-minute bars that back-fill any journal quote you missed (see
    [`journal/`](journal/)).
 5. Write the report **in this README**, in the sections below (delete the
    prompts as you go).
@@ -57,15 +61,17 @@ your own mark before we do. New to GitHub or Markdown? Read
 | Track | Core / Core + Quant *(delete one)* |
 | Benchmark | _e.g. SPY (S&P 500 ETF)_ |
 
-| Member | SID | Role | GitHub handle |
-|---|---|---|---|
-|  |  | Desk Strategist |  |
-|  |  | Execution Trader |  |
-|  |  | Quant / Data Analyst |  |
-|  |  | Risk & Cost Analyst |  |
-|  |  | Repo Maintainer |  |
+| Member | SID | GitHub handle |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
-> 4-person groups: merge **Risk & Cost Analyst** into another role.
+> No fixed roles: rotate the desk's jobs — trading, the weekly journal
+> ritual, the notebook, repo care — so over the window everyone touches each
+> of them (brief, Section 4; the journal's A3 criterion checks the rotation).
 
 ## Tool stack *(rubric D4)*
 

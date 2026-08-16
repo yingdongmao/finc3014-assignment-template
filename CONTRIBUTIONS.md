@@ -9,7 +9,7 @@ GitHub account works and your contribution is on the record.
 
 1. Edit **only your own row** — never a teammate's.
 2. Commit it from **your own account**, logged in as yourself (five minutes in
-   the web editor — rookie guide, §4). A teammate committing "on your behalf"
+   the web editor — rookie guide, §4.1). A teammate committing "on your behalf"
    does not count as your footprint.
 3. Sign at least **twice**: once by **Sunday 27 September, 11:59 pm**
    (mid-window) and once in the final week before the freeze.

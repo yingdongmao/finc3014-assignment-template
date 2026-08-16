@@ -11,9 +11,9 @@ How to run it
    Python algorithm, OR install the LEAN CLI locally.
 2. Paste this file in, set the dates/cash, and click Backtest.
 3. Record Sharpe, max drawdown, and the benchmark comparison in
-   backtest-report.md (criteria Q2, Q3).
+   backtest-report.md.
 4. (Ideal) deploy to paper-trade on IBKR during the trading window so the
-   trades appear in your IBKR log (criterion Q4).
+   trades appear in your IBKR log.
 
 Suggested (NOT required) target: positive alpha vs benchmark, Sharpe >= 1.0,
 max drawdown <= 20%, realistic transaction costs. Beating it is not the point;
@@ -42,7 +42,7 @@ class MovingAverageCrossover(QCAlgorithm):
         self.SetWarmUp(30)
 
         # Realistic-ish costs: LEAN's default fee/slippage models are on by
-        # default. Document any changes in backtest-report.md (criterion Q5).
+        # default. Document any changes in backtest-report.md.
 
     def OnData(self, data: Slice):
         if self.IsWarmingUp or not (self.fast.IsReady and self.slow.IsReady):

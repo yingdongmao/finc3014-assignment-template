@@ -10,4 +10,5 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
-# Do NOT ignore your data — trades.csv and prices.csv must be committed.
+# Do NOT ignore your data — returns.csv, trades.csv, the weekly IBKR report
+# PDFs, the chart snips, and quotes_cache/ must all be committed.

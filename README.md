@@ -31,7 +31,10 @@
    write**: replace `analysis/returns.csv` with your window's daily-returns
    export (reports guide, Section 5), open the notebook in Google Colab,
    **Run all**, and reconcile its numbers against the IBKR report (rubric
-   B). Keep `trades.csv` as your trade-log evidence. During the trading
+   B). Then **File → Download → Download .ipynb** and commit the executed
+   notebook — outputs visible — back over `analysis/analysis.ipynb`, so the
+   marker sees your results without re-running it. Keep `trades.csv` as your
+   trade-log evidence. During the trading
    window, run `analysis/save_quotes.py` once a week — it caches the
    1-minute bars that back-fill any journal quote you missed (see
    [`journal/`](journal/)).
@@ -147,9 +150,12 @@ your own mark before we do. New to GitHub or Markdown? Read
 > re-run?*
 
 ### 5.3 Execution costs *(C9)*
-> Report your cost metrics (from the notebook) and name your **highest-cost
-> trade** with one factual driver. *Quality anchor (+1): express it in basis
-> points and compare it to a stated yardstick (e.g. the quoted half-spread).*
+> Report your cost metrics — these come from your **journal's weekly cost
+> tables** (section 4 of each entry: effective spread %, market vs limit) and
+> [`analysis/trades.csv`](analysis/trades.csv), not from the notebook — and
+> name your **highest-cost trade** with one factual driver. *Quality anchor
+> (+1): express it in basis points and compare it to a stated yardstick (e.g.
+> the quoted half-spread).*
 
 # 6. Reflection *(C10)*
 > - **One concrete change** you'd make next time, tied to a specific result above.

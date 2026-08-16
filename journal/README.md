@@ -2,10 +2,18 @@
 
 One entry per calendar week of the trading window — teaching Weeks 6–8
 (`week6.md`, `week7.md`, `week8.md`), the mid-semester break week (`break.md`),
-then Weeks 9–10 (`week9.md`, `week10.md`) — each **committed during that
-week** (by Sunday 11:59 pm Sydney). This is the heartbeat of your desk, and
-it is marked weekly: **each on-time entry that follows the template earns a
-mark (criterion A1, up to 6)**.
+then Weeks 9–10 (`week9.md`, `week10.md`) — each **committed during the week
+it describes**. This is the heartbeat of your desk, and it is marked weekly:
+**each on-time entry that follows the template earns a mark (criterion A1,
+up to 6)**.
+
+> **On time = pushed by 11:59 pm on that week's Sunday** (Sydney time; the Git
+> commit timestamp is the evidence). An entry pushed at 12:01 am Monday earns
+> **zero** for that week — no extensions, no make-ups, no negotiation, however
+> good the late entry is. In the real market a desk that reports late to its
+> client does not lose a mark, it loses the mandate. Commit the entry when the
+> week's reports are downloaded; don't sit on a finished entry until Sunday
+> night.
 
 ## The weekly ritual (~10 minutes, on the weekend)
 
@@ -40,5 +48,5 @@ exactly the reflection we want.
 
 **Why bother weekly?** The final report's results section (README §5) is
 these blocks: the last performance table, the full-window figure, six weeks
-of cost rows. Fill them as you go and Week 12 is selection, not
-construction.
+of cost rows. Fill them as you go and Week 11 — when you write the report —
+is selection, not construction.

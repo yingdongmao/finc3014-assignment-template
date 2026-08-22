@@ -17,8 +17,9 @@
    the Canvas survey), tell your tutor and we re-send the invitation.
 1. **Fill in the group table** below, then **every member commits their own
    row of [`CONTRIBUTIONS.md`](CONTRIBUTIONS.md)** — from their own account.
-   That is your minimum footprint (brief, Section 5): sign it by mid-window
-   (Sun 27 Sep) and again before the freeze.
+   That is your minimum footprint (brief, Section 5): sign it now (by
+   Sun 30 Aug), again by mid-window (Sun 27 Sep), and once more before the
+   freeze.
 2. **Write your Client Mandate** (Section 1 below) before the window opens.
 3. Each trading week, open that week's file in [`journal/`](journal/)
    (`week6.md` … `week10.md`, plus `break.md`) and fill its numbered sections

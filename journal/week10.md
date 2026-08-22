@@ -82,6 +82,12 @@
 > Expect the limit-order number to be lower, often negative. If it is not,
 > that is worth a sentence in the reflection.
 
-## 5. Reflection (optional but encouraged)
+## 5. Closing the window
+
+> The account must **end the window in cash** (brief, Section 7). Confirm here
+> that every position was closed by the last US trading day, **Friday 16
+> October** — and if anything was left open, say what and why.
+
+## 6. Reflection (optional but encouraged)
 > What surprised you? What would you do differently next week? If your limit
 > orders did not beat your market orders on cost — why not?

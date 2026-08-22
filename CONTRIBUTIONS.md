@@ -11,19 +11,21 @@ GitHub account works and your contribution is on the record.
 2. Commit it from **your own account**, logged in as yourself (five minutes in
    the web editor — rookie guide, §4.1). A teammate committing "on your behalf"
    does not count as your footprint.
-3. Sign at least **twice**: once by **Sunday 27 September, 11:59 pm**
-   (mid-window) and once in the final week before the freeze.
+3. Sign **three times**: first when you accept the repo invitation, by
+   **Sunday 30 August** (this is also how we confirm your GitHub account
+   works); then by **Sunday 27 September, 11:59 pm** (mid-window); then once
+   more in the final week before the freeze.
 4. Be honest and specific — "built the drawdown chart in `analysis.ipynb`"
    beats "helped with analysis". The teaching team cross-checks this table
    against the commit history and the peer evaluation survey.
 
-| Member | GitHub handle | What I did (keep this updated) | Mid-window signature (date) | Final signature (date) |
-|---|---|---|---|---|
-| *(name)* | *(@handle)* |  |  |  |
-| *(name)* | *(@handle)* |  |  |  |
-| *(name)* | *(@handle)* |  |  |  |
-| *(name)* | *(@handle)* |  |  |  |
-| *(name)* | *(@handle)* |  |  |  |
+| Member | GitHub handle | What I did (keep this updated) | First signature (by 30 Aug) | Mid-window signature (by 27 Sep) | Final signature (date) |
+|---|---|---|---|---|---|
+| *(name)* | *(@handle)* |  |  |  |  |
+| *(name)* | *(@handle)* |  |  |  |  |
+| *(name)* | *(@handle)* |  |  |  |  |
+| *(name)* | *(@handle)* |  |  |  |  |
+| *(name)* | *(@handle)* |  |  |  |  |
 
 > If the table above is honest and current, most contribution disputes never
 > start. If you did the work, commit the work.
